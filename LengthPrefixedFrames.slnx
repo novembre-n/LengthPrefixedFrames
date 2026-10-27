@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/LengthPrefixedFrames/LengthPrefixedFrames.csproj" />
+  <Project Path="tests/LengthPrefixedFrames.Tests/LengthPrefixedFrames.Tests.csproj" />
+</Solution>
