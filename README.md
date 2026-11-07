@@ -3,6 +3,7 @@
 A small .NET 10 library that turns a byte stream into complete messages. It is useful for custom protocols over TCP, named pipes, or any other stream wrapped in a `PipeReader`.
 
 > Status: experimental reference implementation. It demonstrates stream framing and is not a complete networking library.
+> This project is an experiment in vibe coding.
 
 ## Wire format
 
